@@ -1,8 +1,8 @@
 Complete Swift development masterclass
 
-Nullability: Optional data type
+Nullability: Null safe calls
 
-Null safe calls
+
 03:16
 Nil coalescing
 03:46
