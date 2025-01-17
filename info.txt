@@ -1,0 +1,18 @@
+Complete Swift development masterclass
+
+Nullability: Optional data type
+
+Null safe calls
+03:16
+Nil coalescing
+03:46
+Non null assertions
+04:08
+Guards
+03:16
+Practice: Coalescing and assertions
+04:30
+Challenge: Coalescing and assertions
+00:08
+Solution: Coalescing and assertions
+01:26

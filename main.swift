@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
-
+print("Programa  de Swift en ejecución...")
+func imprimirLinea(){
+    print(String(repeating: "-", count: 100))
+}
+optionalType()
