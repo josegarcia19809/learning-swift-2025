@@ -10,3 +10,10 @@ func guards(){
     guard let user = name else {return}
     print(user)
 }
+
+
+func nilGuards(){
+    let amount = Int("12")
+    guard let amount = amount else {return}
+    print(amount * 2)
+}
