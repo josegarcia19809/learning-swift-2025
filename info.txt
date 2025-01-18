@@ -1,13 +1,7 @@
 Complete Swift development masterclass
 
-Nullability: Nil coalescing
+Nullability: Non null assertions
 
-
-03:16
-
-03:46
-Non null assertions
-04:08
 Guards
 03:16
 Practice: Coalescing and assertions
