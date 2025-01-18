@@ -1,10 +1,10 @@
 Complete Swift development masterclass
 
-Nullability: Null safe calls
+Nullability: Nil coalescing
 
 
 03:16
-Nil coalescing
+
 03:46
 Non null assertions
 04:08
