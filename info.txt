@@ -1,8 +1,8 @@
 Complete Swift development masterclass
 
-Nullability: Non null assertions
+Nullability: Guards
 
-Guards
+
 03:16
 Practice: Coalescing and assertions
 04:30
