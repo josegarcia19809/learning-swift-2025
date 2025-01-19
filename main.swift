@@ -13,5 +13,4 @@ func imprimirLinea(){
 }
 
 
-nombreNoNulo()
-practiceNullability()
+challengePrintCost()

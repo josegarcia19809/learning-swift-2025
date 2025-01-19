@@ -1,8 +1,4 @@
 Complete Swift development masterclass
 
-Nullability: Practice nullability
+Nullability: Challenge. Coalescing and assertions
 
-Challenge: Coalescing and assertions
-00:08
-Solution: Coalescing and assertions
-01:26
