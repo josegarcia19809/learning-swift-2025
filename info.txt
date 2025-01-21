@@ -1,4 +1,23 @@
 Complete Swift development masterclass
 
-Nullability: Challenge. Coalescing and assertions
+Arrays:
+
+Immutable array
+10:14
+Mutable array
+08:11
+Practice: Array
+05:37
+Challenge: Array
+00:09
+Solution: Array
+04:48
+Array functions
+04:00
+Practice: Array functions
+06:01
+Challenge: Array functions
+00:12
+Solution: Array functions
+03:26
 
