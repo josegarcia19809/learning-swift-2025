@@ -13,4 +13,6 @@ func imprimirLinea(){
 }
 
 
-fallthroughKeyword()
+labelsBreak()
+imprimirLinea()
+labelsContinue()
