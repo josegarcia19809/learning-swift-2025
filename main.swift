@@ -13,6 +13,4 @@ func imprimirLinea(){
 }
 
 
-labelsBreak()
-imprimirLinea()
-labelsContinue()
+addTaxPrueba()
