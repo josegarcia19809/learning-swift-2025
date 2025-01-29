@@ -22,7 +22,7 @@ func listIngredients() {
     let index = ingredients.firstIndex(of: "Mozzarella") ?? -1
     ingredients[index] = "Blue cheese"
     print(ingredients)
-    
+
     ingredients.append("Salt")
     print(ingredients)
 }
