@@ -11,11 +11,11 @@
  Remove the first element in that set.
  Print out the remaining elements.
  */
-func setObjectsDesk(){
+func setObjectsDesk() {
     var items: Set<String> = ["laptop", "mouse", "mic", "phone", "coffe"]
     print(items)
     print("I have \(items.count) objects")
-    
+
     items.removeFirst()
     print(items)
 }
