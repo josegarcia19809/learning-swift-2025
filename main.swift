@@ -13,4 +13,4 @@ func imprimirLinea(){
 }
 
 
-setFundamentalFunctions()
+setPrimeNumbers()
