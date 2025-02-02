@@ -13,5 +13,4 @@ func imprimirLinea(){
 }
 
 
-rangeCats()
 rangePlant()
