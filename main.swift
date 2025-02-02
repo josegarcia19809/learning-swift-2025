@@ -13,4 +13,5 @@ func imprimirLinea(){
 }
 
 
-rangePositiveNumbers()
+rangeCats()
+rangePlant()
