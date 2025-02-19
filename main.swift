@@ -13,4 +13,4 @@ func imprimirLinea(){
 }
 
 
-forDivisibleBy7()
+forPiramideCaritas()
