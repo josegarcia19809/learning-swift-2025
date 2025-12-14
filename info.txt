@@ -1,23 +1,47 @@
 Complete Swift development masterclass
 
-Arrays:
+More Functions: Nil function values
 
-Immutable array
-10:14
-Mutable array
-08:11
-Practice: Array
-05:37
-Challenge: Array
-00:09
-Solution: Array
-04:48
-Array functions
-04:00
-Practice: Array functions
-06:01
-Challenge: Array functions
+
+03:15
+Practice: Nil function values
+02:48
+Challenge: Nil function values
+00:06
+Solution: Nil function values
+02:51
+Overloading
+04:55
+Practice: Overloading
+06:25
+Challenge: Overloading
 00:12
-Solution: Array functions
-03:26
+Solution: Overloading
+03:59
+Scope and in-out parameters
+08:23
+Practice: Scope
+02:06
+Challenge: Scope
+00:06
+Solution: Scope
+03:09
+Varidic parameters
+04:40
+Practice: Varidic parameters
+03:14
+Challenge: Varidic parameters
+00:09
+Solution: Varidic parameters
+01:49
+Local functions
+02:28
+Practice: Local functions
+02:59
+Challenge: Local functions
+00:08
+Solution: Local functions
+04:12
+Recap
+01:07
 

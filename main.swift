@@ -13,4 +13,6 @@ func imprimirLinea(){
 }
 
 
-registroCalorias()
+nilFunctionValues(input:"3")
+nilFunctionValues(input:"-3")
+nilFunctionValues(input:nil)
