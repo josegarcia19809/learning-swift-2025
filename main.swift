@@ -13,6 +13,5 @@ func imprimirLinea(){
 }
 
 
-nilFunctionValues(input:"3")
-nilFunctionValues(input:"-3")
-nilFunctionValues(input:nil)
+customGreetingPractice(input: "José García")
+customGreetingPractice(input: "ana de armas")
