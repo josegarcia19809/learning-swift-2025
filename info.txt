@@ -1,15 +1,8 @@
 Complete Swift development masterclass
 
-More Functions: Practice - Nil function values
+More Functions: Nil function values - Age
 
 
-03:15
-
-02:48
-Challenge: Nil function values
-00:06
-Solution: Nil function values
-02:51
 Overloading
 04:55
 Practice: Overloading

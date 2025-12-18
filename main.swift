@@ -13,5 +13,7 @@ func imprimirLinea(){
 }
 
 
-customGreetingPractice(input: "José García")
-customGreetingPractice(input: "ana de armas")
+activityAgePractice (input: "5")
+activityAgePractice (input: "15")
+activityAgePractice (input: "35")
+activityAgePractice (input: "mayor")
