@@ -1,16 +1,7 @@
 Complete Swift development masterclass
 
-More Functions: Nil function values - Age
+More Functions: Overloading. Length of messages
 
-
-Overloading
-04:55
-Practice: Overloading
-06:25
-Challenge: Overloading
-00:12
-Solution: Overloading
-03:59
 Scope and in-out parameters
 08:23
 Practice: Scope

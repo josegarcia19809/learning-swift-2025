@@ -14,4 +14,4 @@ func imprimirLinea() {
 
 imprimirLinea()
 
-feedAnimalApp()
+displayLengthMessageApp()
