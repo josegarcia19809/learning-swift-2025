@@ -8,12 +8,8 @@
 import Foundation
 
 print("Programa  de Swift en ejecución...")
-func imprimirLinea(){
+func imprimirLinea() {
     print(String(repeating: "-", count: 100))
 }
 
-
-activityAgePractice (input: "5")
-activityAgePractice (input: "15")
-activityAgePractice (input: "35")
-activityAgePractice (input: "mayor")
+cafeteriaCombinar()
