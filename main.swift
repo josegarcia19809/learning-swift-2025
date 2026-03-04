@@ -14,7 +14,8 @@ func imprimirLinea() {
 
 imprimirLinea()
 
-consumoEnergiaElectrica()
+tiendaRefrescos()
 
 // swiftformat consumo_energia.swift
 // /Users/josegarcia/Documents/ios/Swift 2025/Swift 2025/01_estructuras_control
+// cd /Users/josegarcia/Documents/ios/Swift\ 2025/Swift\ 2025/01_estructuras_control
