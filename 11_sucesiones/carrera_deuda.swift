@@ -17,14 +17,14 @@ func carreraDeuda() {
         let aPagar = pagoInicial + 30.0 * Double(i - 1)
         pagoSemanas[i - 1] = aPagar
     }
-    
+
     var totalAPagar = 0.0
     print("Semana \t\tPago de la semana")
-    for (i, pago) in pagoSemanas.enumerated(){
+    for (i, pago) in pagoSemanas.enumerated() {
         totalAPagar += pago
-        print("\(i+1) \t\t\t$\(pago)")
+        print("\(i + 1) \t\t\t$\(pago)")
     }
-    
+
     print()
     print("Total a pagar $\(totalAPagar)")
 }
