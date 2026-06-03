@@ -1,15 +1,8 @@
 Complete Swift development masterclass
 
-More Functions: Overloading. Length of messages
+More Functions: Scope and in-out parameters
 
-Scope and in-out parameters
-08:23
-Practice: Scope
-02:06
-Challenge: Scope
-00:06
-Solution: Scope
-03:09
+
 Varidic parameters
 04:40
 Practice: Varidic parameters
