@@ -44,7 +44,7 @@ func SimpleMathApp() {
             return a / b
         }
     }
-    
+
     let simpleMath = SimpleMath()
     print(simpleMath.Add(10, 5))
     print(simpleMath.Sub(10, 5))
