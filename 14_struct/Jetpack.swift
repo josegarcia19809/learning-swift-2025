@@ -42,17 +42,17 @@
  Aunque stop(5) intentaría bajar la altura a un valor negativo, la altura debe permanecer en 0 metros como mínimo. 🚀📏
  */
 
-// Estructura Jetpack a nivel superior
+/// Estructura Jetpack a nivel superior
 struct Jetpack {
     var userHeight: Int
 
-    // Aumenta la altura 1 m por segundo
+    /// Aumenta la altura 1 m por segundo
     mutating func burn(segundos: Int) {
         guard segundos > 0 else { return }
         userHeight += segundos
     }
 
-    // Disminuye la altura 3 m por segundo, sin bajar de 0
+    /// Disminuye la altura 3 m por segundo, sin bajar de 0
     mutating func stop(segundos: Int) {
         guard segundos > 0 else { return }
         let descenso = segundos * 3
@@ -60,7 +60,7 @@ struct Jetpack {
     }
 }
 
-// Función de demostración
+/// Función de demostración
 func JetpackApp() {
     // Usa 'var' para permitir llamar a métodos mutating sin el error de inmutabilidad
     var pack = Jetpack(userHeight: 0)
