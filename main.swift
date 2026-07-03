@@ -14,7 +14,7 @@ func imprimirLinea() {
 
 imprimirLinea()
 
-self_executing_closures()
+observerPeriodicoApp()
 imprimirLinea()
 
 
