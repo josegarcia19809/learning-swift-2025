@@ -14,7 +14,7 @@ func imprimirLinea() {
 
 imprimirLinea()
 
-observerPeriodicoApp()
+PlayerPropertyWrapperApp()
 imprimirLinea()
 
 
