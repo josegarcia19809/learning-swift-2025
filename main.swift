@@ -14,7 +14,7 @@ func imprimirLinea() {
 
 imprimirLinea()
 
-MascotasProtocolApp()
+classEquipoFutbolApp2()
 imprimirLinea()
 
 
