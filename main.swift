@@ -14,7 +14,7 @@ func imprimirLinea() {
 
 imprimirLinea()
 
-classEquipoFutbolApp2()
+classLibroPrestadoApp()
 imprimirLinea()
 
 
