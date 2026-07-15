@@ -14,7 +14,7 @@ func imprimirLinea() {
 
 imprimirLinea()
 
-herenciaApp()
+initializersApp()
 imprimirLinea()
 
 
