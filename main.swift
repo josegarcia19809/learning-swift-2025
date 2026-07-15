@@ -14,7 +14,7 @@ func imprimirLinea() {
 
 imprimirLinea()
 
-typeCastingBibliotecaApp()
+deinitializerApp()
 imprimirLinea()
 
 
