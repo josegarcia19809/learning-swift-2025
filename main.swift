@@ -14,7 +14,7 @@ func imprimirLinea() {
 
 imprimirLinea()
 
-initializersApp()
+tipos_de_accesoApp()
 imprimirLinea()
 
 
