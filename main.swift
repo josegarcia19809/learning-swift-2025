@@ -14,7 +14,7 @@ func imprimirLinea() {
 
 imprimirLinea()
 
-classLibroPrestadoApp()
+typeCastingBibliotecaApp()
 imprimirLinea()
 
 

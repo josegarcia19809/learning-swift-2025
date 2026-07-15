@@ -17,7 +17,6 @@
 
 func classLibroPrestadoApp() {
     class Book {
-
         let id: Int
 
         init(id: Int) {
@@ -26,19 +25,17 @@ func classLibroPrestadoApp() {
     }
 
     class PublishingHouse {
-
         private var books: [Book] = []
         private var nextId = 1
 
         init() {
-            for _ in 1...10 {
+            for _ in 1 ... 10 {
                 books.append(Book(id: nextId))
                 nextId += 1
             }
         }
 
         func getBook() -> Book {
-
             if Bool.random() {
                 let newBook = Book(id: nextId)
                 nextId += 1
@@ -54,7 +51,7 @@ func classLibroPrestadoApp() {
 
     var requestedBooks: [Book] = []
 
-    for _ in 1...5 {
+    for _ in 1 ... 5 {
         let book = publishingHouse.getBook()
         requestedBooks.append(book)
         print("Libro recibido: \(book.id)")
@@ -62,14 +59,12 @@ func classLibroPrestadoApp() {
 
     var repeated = false
 
-    for i in 0..<requestedBooks.count {
-        for j in (i + 1)..<requestedBooks.count {
-
+    for i in 0 ..< requestedBooks.count {
+        for j in (i + 1) ..< requestedBooks.count {
             if requestedBooks[i] === requestedBooks[j] {
                 repeated = true
                 print("El libro \(requestedBooks[i].id) fue entregado más de una vez.")
             }
-
         }
     }
 
@@ -165,7 +160,7 @@ func classLibroPrestadoApp() {
  if !repeated {
      print("Todos los libros fueron diferentes.")
  }
- 
+
  ***********************************************
  Posible salida
  Libro recibido: 3
