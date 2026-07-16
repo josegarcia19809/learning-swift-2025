@@ -14,7 +14,7 @@ func imprimirLinea() {
 
 imprimirLinea()
 
-tipos_de_accesoApp()
+error_division_bApp()
 imprimirLinea()
 
 
