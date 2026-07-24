@@ -9,6 +9,7 @@
  Una estructura Persona almacena el nombre y el apellido. Es necesario asegurarse de que ambos nombres comiencen con letra mayúscula. Implementa esta funcionalidad en código.
  */
 
+import Foundation
 func PersonNameWrapperApp() {
     @propertyWrapper
     struct Capitalize {

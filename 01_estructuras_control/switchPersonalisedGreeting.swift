@@ -12,6 +12,7 @@
  • a different one for the next 5 letters,
  • and a third message for the rest
  */
+import Foundation
 func switchPersonalisedGreeting() {
     print("Enter your name: ")
     let name = readLine() ?? ""

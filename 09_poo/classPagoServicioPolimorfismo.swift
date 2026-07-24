@@ -5,6 +5,7 @@
 //  Created by Jose Garcia on 17/02/25.
 //
 
+import Foundation
 func classPagoServicioPolimorfismo() {
     class Servicio: CustomStringConvertible {
         private var nombre: String

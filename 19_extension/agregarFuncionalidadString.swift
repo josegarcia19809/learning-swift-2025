@@ -13,6 +13,7 @@
  Un inicializador (init(arreglo:)).
  */
 
+import Foundation
 extension String {
     var estaVacio: Bool {
         trimmingCharacters(in: .whitespacesAndNewlines).isEmpty
